@@ -98,9 +98,6 @@ Hobbies = [
  	<a href="#"><img alt="Sublime" src="https://img.shields.io/badge/sublime_text-%23575757.svg?logo=sublime-text&logoColor=important"></a>
 	</p>
 
-
-![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=lolitt-nels&theme=react-dark&hide_border=true&area=true)
-
 <h2 align="center"> Connect with Me</h2>
 
 <p align="center">
