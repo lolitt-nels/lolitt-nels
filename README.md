@@ -1,5 +1,5 @@
 
-![Github Banner](banner.png)
+<p align="center"><img src="https://git-profile-readme-banner.vercel.app/api/python?username=Lolitt-nels&bg=rebeccapurple&fill=black"></p>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=0d8eceF&size=30&center=true&vCenter=true&width=550&height=70&lines=Hey+There,+I'm+meli;I+Love+Machine+learning;An+Open+Source+Enthusiast;Full+Stack+Web+Developer;Loves+To+Build+Projects;A+Problem+Solver;">
